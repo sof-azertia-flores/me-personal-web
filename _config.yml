@@ -1,0 +1,8 @@
+title: Azertia的博客
+description: 高三的痛苦生活
+theme: minima          # GitHub Pages 自带的主题
+# baseurl: "/blog"     # 仅当仓库名不是 用户名.github.io 时才需要
+url: "https://self.azertia.org"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
